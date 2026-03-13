@@ -24,13 +24,7 @@ JavaScript (ES6)
 
 Fetch API
 
-Project Structure
-project-folder
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+
 How It Works
 
 The application fetches quotes from the API:
